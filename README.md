@@ -1,1 +1,1 @@
-https://github.com/Joaquin1130/Comp484Assignments
+https://joaquin1130.github.io/Comp484Assignments/
